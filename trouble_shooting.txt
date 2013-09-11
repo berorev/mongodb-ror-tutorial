@@ -1,0 +1,11 @@
+h1. Troubleshooting on montodb-mongoid-rails4-ruby2
+
+	h2. Error on '<%= javascript_include_tag "application", "data-turbolinks-track" => true %>'
+
+		h3. Problem
+			http://stackoverflow.com/questions/16739581/possible-to-get-rails-4-working-on-windows
+
+		h3. Solution
+			http://stackoverflow.com/questions/13530042/execjsruntimeerror-in-usersindex-ror
+
+s

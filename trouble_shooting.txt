@@ -8,4 +8,3 @@ h1. Troubleshooting on montodb-mongoid-rails4-ruby2
 		h3. Solution
 			http://stackoverflow.com/questions/13530042/execjsruntimeerror-in-usersindex-ror
 
-s
